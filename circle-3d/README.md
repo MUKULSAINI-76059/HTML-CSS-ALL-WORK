@@ -1,6 +1,6 @@
 # Circle-3D 🔵
 
-A 3D animated circle project built with pure HTML & CSS.
+A practice project to learn CSS 3D animations and transforms.
 
 ## 🌐 Live Demo
 [View Live](https://69cc25339ac3e4eb5eb2f96f--circle-3d.netlify.app/)
